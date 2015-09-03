@@ -1,0 +1,82 @@
+[
+	{
+		"plan_id_type": "HIOS-PLAN-ID",
+		"plan_id": "30115FL0020001",
+		"marketing_name": "BlueDental Choice Plan Q",
+		"summary_url": "http://www.floridabluedental.com/Individuals/Shop-Our-Plans/BlueDental-Qualified-Plans/BlueDental-Choice-Copayment-Q-Plan-Children.aspx",
+		"plan_contact": "dentalproviderrelations@fclife.com",
+		"network": [
+			{
+				"network_tier": "CHOICE-NETWORK"
+			},
+			{
+				"network_tier": "ADVANTAGE-PLUS-NETWORK"
+			},
+			{
+				"network_tier": "OUT-OF-NETWORK"
+			}
+		],
+		"formulary": [],
+		"last_updated_on": "2015-08-26"
+	},
+	{
+		"plan_id_type": "HIOS-PLAN-ID",
+		"plan_id": "30115FL0050001",
+		"marketing_name": "BlueDental Choice Plan QF",
+		"summary_url": "http://www.floridabluedental.com/Individuals/Shop-Our-Plans/BlueDental-Qualified-Plans/BlueDental-Choice-Copayment-QF-Plan-Adults-Children.aspx",
+		"plan_contact": "dentalproviderrelations@fclife.com",
+		"network": [
+			{
+				"network_tier": "CHOICE-NETWORK"
+			},
+			{
+				"network_tier": "ADVANTAGE-PLUS-NETWORK"
+			},
+			{
+				"network_tier": "OUT-OF-NETWORK"
+			}
+		],
+		"formulary": [],
+		"last_updated_on": "2015-07-20"
+	},
+	{
+		"plan_id_type": "HIOS-PLAN-ID",
+		"plan_id": "30115FL0010001",
+		"marketing_name": "BlueDental Copayment Plan Q",
+		"summary_url": "http://www.floridabluedental.com/Individuals/Shop-Our-Plans/BlueDental-Qualified-Plans/BlueDental-Choice-Copayment-Q-Plan-Children.aspx",
+		"plan_contact": "dentalproviderrelations@fclife.com",
+		"network": [
+			{
+				"network_tier": "COPAYMENT-NETWORK"
+			},
+			{
+				"network_tier": "ADVANTAGE-PLUS-NETWORK-IF-OUTSIDE-OF-FLORIDA"
+			},
+			{
+				"network_tier": "OUT-OF-NETWORK"
+			}
+		],
+		"formulary": [],
+		"last_updated_on": "2015-08-26"
+	},
+	{
+		"plan_id_type": "HIOS-PLAN-ID",
+		"plan_id": "30115FL0040001",
+		"marketing_name": "BlueDental Copayment Plan QF",
+		"summary_url": "http://www.floridabluedental.com/Individuals/Shop-Our-Plans/BlueDental-Qualified-Plans/BlueDental-Choice-Copayment-QF-Plan-Adults-Children.aspx",
+		"plan_contact": "dentalproviderrelations@fclife.com",
+		"network": [
+			{
+				"network_tier": "COPAYMENT-NETWORK"
+			},
+			{
+				"network_tier": "ADVANTAGE-PLUS-NETWORK-IF-OUTSIDE-OF-FLORIDA"
+			},
+			{
+				"network_tier": "OUT-OF-NETWORK"
+			}
+		],
+		"formulary": [],
+		"last_updated_on": "2015-08-26"
+	}
+]
